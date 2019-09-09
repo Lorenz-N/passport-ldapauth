@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "@types/node": "^10.12.26",
-    "@types/passport": "^1.0.0",
+    "@types/passport": "^1.0.1",
     "ldapauth-fork": "^4.2.0",
     "passport-strategy": "^1.0.0"
   },
